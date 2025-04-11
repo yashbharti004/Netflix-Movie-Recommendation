@@ -18,7 +18,7 @@ This project leverages data analytics, geospatial visualization, and interactive
 - Cleans ranking and watchtime columns.
 - Merges IMDb ratings into the FlixPatrol dataset.
 
-2.**Recommendation System (recommend.py, main.py.py, app.py):**
+2.**Recommendation System (recommend.py, main.py, app.py):**
 - Filters content by genre, type, and year range.
 - Ranks results based on watchtime to suggest high-performing titles.
 
@@ -26,7 +26,7 @@ This project leverages data analytics, geospatial visualization, and interactive
 - Bar charts of top 10 watched shows.
 - Choropleth map showing Netflix content distribution globally.
 
-4.**Interactive Web App (main.py.py, app.py):**
+4.**Interactive Web App (main.py, app.py):**
 - Streamlit dashboard allows users to explore data, get recommendations, and analyze feedback/insights.
 
 ## Technologies Used
