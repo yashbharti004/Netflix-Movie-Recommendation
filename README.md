@@ -28,3 +28,15 @@ This project leverages data analytics, geospatial visualization, and interactive
 
 4.**Interactive Web App (main.py.py, app.py):**
 - Streamlit dashboard allows users to explore data, get recommendations, and analyze feedback/insights.
+
+## Technologies Used
+- **Python:** Core programming language
+- **Pandas:** Data manipulation and cleaning
+- **GeoPandas:** Geospatial analysis and mapping
+- **Matplotlib & Seaborn:** Data visualization
+- **Streamlit:** Interactive dashboard and recommendation interface
+## Sample Insights
+- Top genres by watchtime
+- Distribution of content by country
+- Most-watched shows by year
+- Recommendations for Netflix on content acquisition
