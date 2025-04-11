@@ -14,7 +14,7 @@ This project leverages data analytics, geospatial visualization, and interactive
 5.**Insight Generator:** Provides business insights, purchase recommendations, and user feedback simulations for Netflix decision-makers.
 
 ## Methodology
-1.**Data Preprocessing (clean.py, merge_data.py):
+1.**Data Preprocessing (clean.py, merge_data.py):**
 -Cleans ranking and watchtime columns.
 -Merges IMDb ratings into the FlixPatrol dataset.
 
