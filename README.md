@@ -1,8 +1,8 @@
-#Netflix Data Analysis and Recommendation System
-##Overview
+# Netflix Data Analysis and Recommendation System
+## Overview
 This project leverages data analytics, geospatial visualization, and interactive dashboards to provide meaningful insights into Netflix content. It also features a recommendation system that suggests top-performing content based on user preferences.
 
-##Key Features
+## Key Features
 1.**Data Cleaning & Integration:** Merges multiple Netflix datasets, cleans inconsistencies, and adds IMDb ratings.
 
 2.**Recommendation Engine:** Recommends top movies or shows based on genre, type, year range, and watchtime.
@@ -13,7 +13,7 @@ This project leverages data analytics, geospatial visualization, and interactive
 
 5.**Insight Generator:** Provides business insights, purchase recommendations, and user feedback simulations for Netflix decision-makers.
 
-##Methodology
+## Methodology
 1.**Data Preprocessing (clean.py, merge_data.py):
 -Cleans ranking and watchtime columns.
 -Merges IMDb ratings into the FlixPatrol dataset.
