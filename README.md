@@ -15,16 +15,16 @@ This project leverages data analytics, geospatial visualization, and interactive
 
 ## Methodology
 1.**Data Preprocessing (clean.py, merge_data.py):**
--Cleans ranking and watchtime columns.
--Merges IMDb ratings into the FlixPatrol dataset.
+- Cleans ranking and watchtime columns.
+- Merges IMDb ratings into the FlixPatrol dataset.
 
 2.**Recommendation System (recommend.py, main.py.py, app.py):**
--Filters content by genre, type, and year range.
--Ranks results based on watchtime to suggest high-performing titles.
+- Filters content by genre, type, and year range.
+- Ranks results based on watchtime to suggest high-performing titles.
 
 3.**Visualization & Analysis (analysis.py, geopandas_analysis.py):**
--Bar charts of top 10 watched shows.
--Choropleth map showing Netflix content distribution globally.
+- Bar charts of top 10 watched shows.
+- Choropleth map showing Netflix content distribution globally.
 
 4.**Interactive Web App (main.py.py, app.py):**
--Streamlit dashboard allows users to explore data, get recommendations, and analyze feedback/insights.
+- Streamlit dashboard allows users to explore data, get recommendations, and analyze feedback/insights.
